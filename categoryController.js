@@ -69,4 +69,4 @@ const getAllCategories = async (req, res) => {
   }
 };
 
-module.exports = { searchByL2Category, processExcelFromURL, getAllCategories };
+module.exports = { searchByL2Category, getAllCategories };
